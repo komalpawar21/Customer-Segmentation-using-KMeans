@@ -1,5 +1,5 @@
 # PRODIGY_ML_02
-📘  Project: Customer Segmentation using K-Means Clustering
+  Project: Customer Segmentation using K-Means Clustering
 
 
 🔹 Introduction
